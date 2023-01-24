@@ -32,6 +32,8 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
      cd $HOME
      git clone https://github.com/W8SOJIB/W8AndroSpyL3
      cd W8AndroSpyL3
+     ls
+     chmod +x install.sh
      bash install.sh
 ```
   Chack Tunnel: http://localhost:22533
