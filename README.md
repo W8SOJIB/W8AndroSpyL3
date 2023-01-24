@@ -23,7 +23,7 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
 1. Built In APK Builder
 
 
-## Installation
+## Installation In Termux
 ```
      termux-setup-storage
      apt-get update -y
@@ -36,8 +36,17 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
      chmod +x install.sh
      bash install.sh
 ```
+     ---Start Tools---
+  ``` 
+     lemon -h
+     
+   ```       
   Chack Tunnel: http://localhost:22533
   
+  ## Port Forward Site
+  https://portmap.io/
+  
+  PortMap Port: 22222 
      
  ## Options
  Press lemon -help to view the help menu
