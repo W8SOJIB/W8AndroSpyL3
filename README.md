@@ -26,8 +26,9 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
 ## Installation
 ```
      
-     $ apt-get update -y
-     $ apt-get upgrade -y
+     apt-get update -y
+     apt-get upgrade -y
+     pkg install git -y
      cd $HOME
      git clone https://github.com/W8SOJIB/W8AndroSpyL3
      cd W8AndroSpyL3
