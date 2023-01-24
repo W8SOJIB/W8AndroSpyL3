@@ -25,7 +25,7 @@ Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based r
 
 ## Installation
 ```
-     
+     termux-setup-storage
      apt-get update -y
      apt-get upgrade -y
      pkg install git -y
