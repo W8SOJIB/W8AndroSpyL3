@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="https://github.com/rootuserdj/L3MON-Termux/blob/main/L3MON/server/assets/webpublic/logo.png" height="60"><br>
-Clone of real <a href="https://github.com/D3VL/L3MON">L3MON</a> a cloud based remote android managment suite for termux, powered by NodeJS
+Clone of real <a href="https://www.facebook.com/W8Vai">L3MON</a> a cloud based remote android managment suite for termux, powered by NodeJS
 </p>
 
 
